@@ -1,0 +1,1 @@
+# pyright_generic_perf
